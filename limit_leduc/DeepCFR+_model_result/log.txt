@@ -1,0 +1,12 @@
+eposide 0:1.0609600000000001
+eposide 1:0.2767
+eposide 2:0.12562
+eposide 3:0.03088
+eposide 4:0.05414
+eposide 5:0.10438
+eposide 6:0.0984
+eposide 7:0.09334
+eposide 8:0.025740000000000002
+eposide 9:0.7144999999999999
+eposide 10:0.89316
+last eposide exploitability:0.88382
